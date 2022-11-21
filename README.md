@@ -6,7 +6,7 @@ Quick start:
 $ npm install
 $ npm start
 ````
-##This is a project from Scrimba online course to practice JavaScript class object, I rewrite the game to solidify these concepts.
+## This is a project from Scrimba online course to practice JavaScript classes/constructors, setTimeOuts, ect, I rewrite the game to solidify these concepts.
 
 ## About Scrimba
 
